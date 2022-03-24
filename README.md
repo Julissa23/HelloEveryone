@@ -1,5 +1,7 @@
+
+
 # HelloEveryone
-My first repository!
+👩🏻‍💻My first repository!
 
 ## A littel about Julissas Guzman
 Hello Everybody! My name is Julissa I gald that im starting my new journey with GitHub. I'm an inspired Latinx in Tech. It took me a little long to decied 
@@ -12,3 +14,5 @@ to Help others.
 
 ## My Hobbies  
 My first hobbie is beeing a mother i get to be the best mother i can be, I get to teach, Play, Collect toys or Build Legos and Read to him. I learn from him as well we learn together as a family. I also collect Funko Pop toys from action figuers to Disney, popular shows. I love to travel with my family i would like to take our son to see the world as he grows older. 
+
+www.linkedin.com/in/julissa-guzman-jauregui
