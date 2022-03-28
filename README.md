@@ -1,10 +1,13 @@
 
 
+
+![alt text](image.jpg)![Julissa Web Portfolio](https://user-images.githubusercontent.com/57779323/160492131-1bffdb4a-ef4a-413f-a6c5-230e1deb7c37.png)
+
 # HelloEveryone
 👩🏻‍💻My first repository!
 
 ## A littel about Julissas Guzman
-Hello Everybody! My name is Julissa I gald that im starting my new journey with GitHub. I'm an inspired Latinx in Tech. It took me a little long to decied 
+Hello Everybody! My name is Julissa I gald that im starting my new journey with GitHub. I'm an aspired Latinx in Tech. It took me a little long to decied 
 what i wanted to do for my career. I feel in love with the tech industry that i bought a book GitHub for Dummies, Hope i get to learn more then i hope so. 
 
 ## My Career Goals in Tech
