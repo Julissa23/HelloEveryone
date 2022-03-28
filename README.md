@@ -4,18 +4,33 @@
 ![alt text](image.jpg)![Julissa Web Portfolio](https://user-images.githubusercontent.com/57779323/160492131-1bffdb4a-ef4a-413f-a6c5-230e1deb7c37.png)
 
 # HelloEveryone
+
 👩🏻‍💻My first repository!
 
+
+
 ## A littel about Julissas Guzman
-Hello Everybody! My name is Julissa I gald that im starting my new journey with GitHub. I'm an aspired Latinx in Tech. It took me a little long to decied 
-what i wanted to do for my career. I feel in love with the tech industry that i bought a book GitHub for Dummies, Hope i get to learn more then i hope so. 
+
+Hello Everybody! My name is Julissa I'm glad that I'm starting my new journey with GitHub. I'm an aspired Latinx in Tech. It took me a little longer to decide 
+
+what I wanted to do for my career. I fell in love with the tech industry that I bought the book GitHub for Dummies, Hope I get to learn more than I hope so. 
+
+
 
 ## My Career Goals in Tech
-I would like to build a Start-up but i need to learn how to help current  small business and understand how to make succefully.
-I took time to invest on my self by learning Data Analytics, Project Manager. I enjoy it so much that i found my calling Bulid something 
-to Help others. 
+
+I would like to build a Start-up but I need to learn how to help current small businesses and understand how to make them successful.
+
+I took the time to invest in myself by learning Data Analytics, Project Managers. I enjoy it so much that I found my calling to Build something 
+
+to help others. 
+
+
 
 ## My Hobbies  
-My first hobbie is beeing a mother i get to be the best mother i can be, I get to teach, Play, Collect toys or Build Legos and Read to him. I learn from him as well we learn together as a family. I also collect Funko Pop toys from action figuers to Disney, popular shows. I love to travel with my family i would like to take our son to see the world as he grows older. 
+
+My first hobby is being a mother I get to be the best mother I can be, I get to teach, Play, Collect toys or Build Legos and Read to him. I learn from him as well we learn together as a family. I also collect Funko Pop toys from action figures to Disney, popular shows. I love to travel with my family I would like to take our son to see the world as he grows older. 
+
+
 
 www.linkedin.com/in/julissa-guzman-jauregui
